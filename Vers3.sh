@@ -30,8 +30,6 @@ boucle_fichier() {
     done < "$file"
 }
 
-
-
 fichier_transfere() {
     file="$1"
 
